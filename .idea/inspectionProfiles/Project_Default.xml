@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="training_model.train_dl" />
+          <option value="inference.val_dl" />
+          <option value="tensorflow.python.ops.nn.Module" />
+          <option value="ActionAI.actionai.run_actionai.gstgva" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
